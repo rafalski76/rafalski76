@@ -2,7 +2,7 @@
 
 **Welcome to my profile!**
 
-I'm a devops engineer and back-end programmer from Warsaw, Poland. 
+I'm a devops engineer and back-end programmer from Warsaw, Poland.
 
 ## My projects
 
