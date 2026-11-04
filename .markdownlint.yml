@@ -1,0 +1,4 @@
+default: true
+MD013: false   # długość linii
+MD033: false   # inline HTML (ikony narzędzi)
+MD041: false
